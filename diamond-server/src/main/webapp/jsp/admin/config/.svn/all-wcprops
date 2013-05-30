@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/diamond/!svn/ver/20/trunk/diamond-server/src/main/webapp/jsp/admin/config
+END
+list_json.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/diamond/!svn/ver/20/trunk/diamond-server/src/main/webapp/jsp/admin/config/list_json.jsp
+END
+upload.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/diamond/!svn/ver/2/trunk/diamond-server/src/main/webapp/jsp/admin/config/upload.jsp
+END
+edit.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/diamond/!svn/ver/2/trunk/diamond-server/src/main/webapp/jsp/admin/config/edit.jsp
+END
+new.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/diamond/!svn/ver/2/trunk/diamond-server/src/main/webapp/jsp/admin/config/new.jsp
+END
+list.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/diamond/!svn/ver/17/trunk/diamond-server/src/main/webapp/jsp/admin/config/list.jsp
+END
+batch_result.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/diamond/!svn/ver/20/trunk/diamond-server/src/main/webapp/jsp/admin/config/batch_result.jsp
+END

@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/diamond/!svn/ver/20/trunk/diamond-sdk/src/main/java/com/taobao/diamond/domain
+END
+PageContextResult.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/diamond/!svn/ver/20/trunk/diamond-sdk/src/main/java/com/taobao/diamond/domain/PageContextResult.java
+END
+DiamondConf.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/diamond/!svn/ver/20/trunk/diamond-sdk/src/main/java/com/taobao/diamond/domain/DiamondConf.java
+END
+ContextResult.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/diamond/!svn/ver/20/trunk/diamond-sdk/src/main/java/com/taobao/diamond/domain/ContextResult.java
+END
+DiamondSDKConf.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/diamond/!svn/ver/20/trunk/diamond-sdk/src/main/java/com/taobao/diamond/domain/DiamondSDKConf.java
+END
+BatchContextResult.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/diamond/!svn/ver/20/trunk/diamond-sdk/src/main/java/com/taobao/diamond/domain/BatchContextResult.java
+END

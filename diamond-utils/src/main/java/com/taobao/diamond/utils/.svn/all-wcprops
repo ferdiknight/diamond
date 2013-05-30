@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/diamond/!svn/ver/20/trunk/diamond-utils/src/main/java/com/taobao/diamond/utils
+END
+TimeUtils.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/diamond/!svn/ver/17/trunk/diamond-utils/src/main/java/com/taobao/diamond/utils/TimeUtils.java
+END
+FileUtils.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/diamond/!svn/ver/2/trunk/diamond-utils/src/main/java/com/taobao/diamond/utils/FileUtils.java
+END
+LoggerInit.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/diamond/!svn/ver/2/trunk/diamond-utils/src/main/java/com/taobao/diamond/utils/LoggerInit.java
+END
+ResourceUtils.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/diamond/!svn/ver/2/trunk/diamond-utils/src/main/java/com/taobao/diamond/utils/ResourceUtils.java
+END
+JSONUtils.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/diamond/!svn/ver/20/trunk/diamond-utils/src/main/java/com/taobao/diamond/utils/JSONUtils.java
+END
+SimpleCache.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/diamond/!svn/ver/2/trunk/diamond-utils/src/main/java/com/taobao/diamond/utils/SimpleCache.java
+END

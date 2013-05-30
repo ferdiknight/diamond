@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/diamond/!svn/ver/17/trunk/diamond-client/src/main/java/com/taobao/diamond/client/processor
+END
+SnapshotConfigInfoProcessor.java
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svn/diamond/!svn/ver/2/trunk/diamond-client/src/main/java/com/taobao/diamond/client/processor/SnapshotConfigInfoProcessor.java
+END
+LocalConfigInfoProcessor.java
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svn/diamond/!svn/ver/17/trunk/diamond-client/src/main/java/com/taobao/diamond/client/processor/LocalConfigInfoProcessor.java
+END
+ServerAddressProcessor.java
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svn/diamond/!svn/ver/17/trunk/diamond-client/src/main/java/com/taobao/diamond/client/processor/ServerAddressProcessor.java
+END

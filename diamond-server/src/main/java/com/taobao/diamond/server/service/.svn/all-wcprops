@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/diamond/!svn/ver/17/trunk/diamond-server/src/main/java/com/taobao/diamond/server/service
+END
+TimerTaskService.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/diamond/!svn/ver/17/trunk/diamond-server/src/main/java/com/taobao/diamond/server/service/TimerTaskService.java
+END
+ConfigService.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/diamond/!svn/ver/17/trunk/diamond-server/src/main/java/com/taobao/diamond/server/service/ConfigService.java
+END
+AdminService.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/diamond/!svn/ver/17/trunk/diamond-server/src/main/java/com/taobao/diamond/server/service/AdminService.java
+END
+NotifyService.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/diamond/!svn/ver/17/trunk/diamond-server/src/main/java/com/taobao/diamond/server/service/NotifyService.java
+END
+DumpConfigInfoTask.java
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/diamond/!svn/ver/17/trunk/diamond-server/src/main/java/com/taobao/diamond/server/service/DumpConfigInfoTask.java
+END
+PersistService.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/diamond/!svn/ver/17/trunk/diamond-server/src/main/java/com/taobao/diamond/server/service/PersistService.java
+END
+DiskService.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/diamond/!svn/ver/17/trunk/diamond-server/src/main/java/com/taobao/diamond/server/service/DiskService.java
+END
