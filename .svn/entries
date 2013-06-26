@@ -10,9 +10,9 @@ http://code.taobao.org/svn/diamond
 2012-12-27T06:39:14.916889Z
 20
 chrisredfield
-
-
-
+has-props
+has-prop-mods
+svn:special svn:externals svn:needs-lock
 
 
 
@@ -25,9 +25,6 @@ chrisredfield
 
 
 c907d269-c53b-4608-8c95-3e4b52b84011
-
-diamond-server
-dir
 
 LICENSE.txt
 file
@@ -63,13 +60,50 @@ chrisredfield
 
 17794
 
+clover.license
+file
+
+
+
+
+2013-05-13T01:48:09.489477Z
+9caf2fcf89b8482062696cc85beffbfc
+2012-04-09T08:23:07.018617Z
+2
+chrisredfield
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+195
+
 diamond-client
 dir
 
-diamond-utils
+diamond-sdk
 dir
 
-diamond-sdk
+diamond-server
+dir
+
+diamond-utils
 dir
 
 pom.xml
@@ -105,40 +139,6 @@ chrisredfield
 
 
 7438
-
-clover.license
-file
-
-
-
-
-2013-05-13T01:48:09.489477Z
-9caf2fcf89b8482062696cc85beffbfc
-2012-04-09T08:23:07.018617Z
-2
-chrisredfield
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-195
 
 readme.txt
 file
